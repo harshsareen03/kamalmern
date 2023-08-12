@@ -1,0 +1,21 @@
+1)frontend 
+i)navbar
+ii)product listing
+iii)shopping cart
+iv)login and registration
+v)payment method or checkout process
+
+2)backend
+
+i)fetching data through api
+ii)razorpay
+iii)login ,registration and logout
+iv)create data through mongodb
+
+
+packages in mern
+i)react-bootstrap - theme
+ii)axios -api fetching
+iii)react-icon - frontend icons
+iv) react-router-dom
+v)
